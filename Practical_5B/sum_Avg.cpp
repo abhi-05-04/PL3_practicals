@@ -8,7 +8,7 @@ int main()
     cout<<"Enter 10 numbers: \n";
     for(int i=0;i<10;i++)
         cin>>arr[i];
-    int ans;
+    int ans =0;
     for(int i=0;i<10;i++)
         ans+=arr[i];
     cout<< "Sum is: "<<ans<<endl;
