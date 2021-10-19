@@ -1,0 +1,21 @@
+header{
+	padding: 1%;
+	background-size: 100%;
+	overflow: hidden;	
+	
+}
+
+nav {
+	text-align: right;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: dimgray!important;
+}
+nav a{
+	float: left;
+	display: block;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+}
