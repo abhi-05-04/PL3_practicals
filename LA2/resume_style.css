@@ -143,8 +143,6 @@ a:hover {
   color: rgb(124, 21, 21);
 }
 
-.skills {
-}
 
 .skills__item {
   margin-bottom: 10px;
@@ -171,6 +169,15 @@ a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: auto;
   
 }
+._center{
+  align-items: center;
+  margin-left: 2.5px;
+
+}
+._right{
+  float: right; }
+._left{
+  float:left}
